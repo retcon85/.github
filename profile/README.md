@@ -10,16 +10,18 @@ Check out the [Retcon home page](https://www.undeveloper.com/retcon) for more in
 
 ## Repository map
 
+### Core repositories
+
 - [retcon-tutorials](https://github.com/retcon85/retcon-tutorials) – source code listings for the tutorials in the project companion book.
-- [retcon-av](https://github.com/retcon85/retcon-av) – HDL sources for reprogramming the retcon-av graphics / sound device
-- [retcon-bios](https://github.com/retcon85/retcon-bios) – our stock BIOS for playing Sega Master System games on a Z80 Retcon85 build. Use this or write your own!
-- [retcon-util](https://github.com/retcon85/retcon-util) – a set of helpful but optional utilities
-- [retcon-lib](https://github.com/retcon85/retcon-lib) – a set of useful libraries for game development
 - [retcon-tk](https://github.com/retcon85/retcon-tk) – Dockerfiles for full Retcon development toolchains
+- [retcon-util](https://github.com/retcon85/retcon-util) – a set of helpful but optional utilities
+- [retcon-bios](https://github.com/retcon85/retcon-bios) – our stock BIOS for playing Sega Master System games on a Z80 Retcon85 build. Use this or write your own!
+- [retcon-av](https://github.com/retcon85/retcon-av) – HDL sources for reprogramming the retcon-av graphics / sound device
+- [retcon-lib](https://github.com/retcon85/retcon-lib) – a set of useful libraries for game development
+
+### SMS Games
+
 - [sms-template](https://github.com/retcon85/sms-template) – a template for writing a Sega Master System game in Z80 assembler
-
-### Games
-
 - [sms-segle](https://github.com/retcon85/sms-segle) – a Wordle clone for the Sega Master System
 - [sms-bounce](https://github.com/retcon85/sms-bounce) – a Pong clone for the Sega Master System
 - [sms-invaders](https://github.com/retcon85/sms-invaders) – a Space Invaders clone for the Sega Master System
