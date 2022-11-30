@@ -1,12 +1,12 @@
 # Welcome to the Retcon85 Project!
 
+![Retcon Splash Screen](https://github.com/retcon85/.github/blob/main/bios_splash.png?raw=true)
+
 Retcon is a build your own game console kit for learners, hobbyists and enthusiasts who want to recreate a fully working 1980s style home game console, while learning about computers and how they work.
 
 The repositories here accompany the Retcon build your own game console kit, and the "What is a computer?" companion book.
 
 Check out the [Retcon home page](https://www.undeveloper.com/retcon) for more information about the project, including information about getting your hands on a Retcon85 kit once crowdfunding starts.
-
-![Retcon Splash Screen](https://github.com/retcon85/.github/blob/main/bios_splash.png?raw=true)
 
 ## Repository map
 
