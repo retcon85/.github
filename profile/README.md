@@ -10,7 +10,7 @@ Check out the [Retcon home page](https://www.undeveloper.com/retcon) for more in
 
 ## Repository map
 
-### Core repositories
+### Core repos
 
 - [retcon-tutorials](https://github.com/retcon85/retcon-tutorials) – source code listings for the tutorials in the project companion book.
 - [retcon-tk](https://github.com/retcon85/retcon-tk) – Dockerfiles for full Retcon development toolchains
