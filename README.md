@@ -6,6 +6,8 @@ The repositories here accompany the Retcon build your own game console kit, and 
 
 Check out the [Retcon home page](https://www.undeveloper.com/retcon) for more information about the project, including information about getting your hands on a Retcon85 kit once crowdfunding starts.
 
+![Retcon Splash Screen](https://github.com/retcon85/.github/blob/main/bios_splash.png?raw=true)
+
 ## Repository map
 
 1. [retcon-tutorials](https://github.com/retcon85/retcon-tutorials) – source code listings for the tutorials in the project companion book.
