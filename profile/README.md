@@ -13,7 +13,7 @@ Check out the [Retcon home page](https://www.undeveloper.com/retcon) for more in
 ### Core repos
 
 - [retcon-tutorials](https://github.com/retcon85/retcon-tutorials) – source code listings for the tutorials in the project companion book.
-- [retcon-tk](https://github.com/retcon85/retcon-tk) – Dockerfiles for full Retcon development toolchains
+- [toolkit-sms](https://github.com/retcon85/[toolkit-sms) – Dockerfiles for full Retcon development toolchains
 - [retcon-util](https://github.com/retcon85/retcon-util) – a set of helpful but optional utilities
 - [retcon-av](https://github.com/retcon85/retcon-av) – HDL sources for reprogramming the retcon-av graphics / sound device
 - [retcon-lib](https://github.com/retcon85/retcon-lib) – a set of useful libraries for game development
