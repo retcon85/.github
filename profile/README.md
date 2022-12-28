@@ -13,7 +13,7 @@ Check out the [Retcon home page](https://www.undeveloper.com/retcon) for more in
 ### Core repos
 
 - [toolkit-full](https://github.com/retcon85/toolkit-full) – Dockerfiles for full Retcon development toolchains
-- [retcon-tutorials](https://github.com/retcon85/retcon-tutorials) – source code listings for the tutorials in the retcon85 project companion book.
+- [retcon-tutorials](https://github.com/retcon85/retcon-tutorials) – source code listings for the tutorials in the Retcon85 project companion book.
 - [retcon-av](https://github.com/retcon85/retcon-av) – HDL sources for reprogramming the retcon-av graphics / sound device
 
 ### Sega Master System development
