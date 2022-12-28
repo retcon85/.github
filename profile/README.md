@@ -18,7 +18,7 @@ Check out the [Retcon home page](https://www.undeveloper.com/retcon) for more in
 
 ### Sega Master System development
 
-- [toolkit-sms](https://github.com/retcon85/toolkit-sms) – Dockerfiles for full Retcon development toolchains
+- [toolkit-sms](https://github.com/retcon85/toolkit-sms) – Dockerfiles for SMS development toolchain
 - [template-sms-wladx-lite](https://github.com/retcon85/template-sms-wladx-lite) – a template for writing a Sega Master System game in Z80 assembler
 - [template-sms-devkitsms](https://github.com/retcon85/template-sms-devkitsms) – a template for writing a Sega Master System game in C
 - [sms-segle](https://github.com/retcon85/sms-segle) – a Wordle clone for the Sega Master System
