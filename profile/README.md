@@ -34,5 +34,5 @@ Check out the [Retcon home page](https://www.undeveloper.com/retcon) for more in
 - [What is a computer? Retcon Project companion book](https://www.undeveloper.com/retcon/retcon85-book)
 - [Z80 op code reference](https://jnz.dk/z80/opref.html)
 - [WLA-DX assembler reference](https://wla-dx.readthedocs.io/en/latest/index.html)
-- [devkitSMS](https://github.com/sverx/devkitSMS)
+- [devkitSMS](https://github.com/sverx/devkitSMS) - write homebrew Sega Master System (and Game Gear) games in C
 - [SMSPower! community site](https://www.smspower.org)
